@@ -51,7 +51,7 @@ Proyek ini menggunakan **Streamlit** sebagai dashboard interaktif dan berbagai p
    ```
 2. **Masuk ke direktori proyek**:  
    ```sh
-   cd SistemPrediksiHarga
+   cd ml-sales-price-predictions-python
    ```
 3. **Buat virtual environment dan aktifkan**:  
    ```sh
@@ -72,10 +72,5 @@ Proyek ini menggunakan **Streamlit** sebagai dashboard interaktif dan berbagai p
 
 <img src="./ss/1.jpg">
 <img src="./ss/2.jpg">
-
-## 📜 Lisensi  
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).  
-
----
 
 **Sistem Prediksi Harga dan Strategi Penjualan** membantu bisnis mengambil keputusan yang lebih cerdas dengan data!  
